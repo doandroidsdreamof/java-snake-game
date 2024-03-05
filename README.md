@@ -7,6 +7,8 @@ A classic Snake game implementation in Java using Swing for the graphical user i
 - Classic Snake gameplay.
 - Score tracking.
 
+![Alt text](public/screenshot.png)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
